@@ -1,0 +1,14 @@
+E:\Semester 2\OOP\week4\Tasks\UMS\UMS\bin\Debug\UMS.exe.config
+E:\Semester 2\OOP\week4\Tasks\UMS\UMS\bin\Debug\UMS.exe
+E:\Semester 2\OOP\week4\Tasks\UMS\UMS\bin\Debug\UMS.pdb
+E:\Semester 2\OOP\week4\Tasks\UMS\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+E:\Semester 2\OOP\week4\Tasks\UMS\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+E:\Semester 2\OOP\week4\Tasks\UMS\UMS\obj\Debug\UMS.exe
+E:\Semester 2\OOP\week4\Tasks\UMS\UMS\obj\Debug\UMS.pdb
+E:\Semester 2\OOP\week5\Assignment\UMS\UMS\bin\Debug\UMS.exe.config
+E:\Semester 2\OOP\week5\Assignment\UMS\UMS\bin\Debug\UMS.exe
+E:\Semester 2\OOP\week5\Assignment\UMS\UMS\bin\Debug\UMS.pdb
+E:\Semester 2\OOP\week5\Assignment\UMS\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+E:\Semester 2\OOP\week5\Assignment\UMS\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+E:\Semester 2\OOP\week5\Assignment\UMS\UMS\obj\Debug\UMS.exe
+E:\Semester 2\OOP\week5\Assignment\UMS\UMS\obj\Debug\UMS.pdb
